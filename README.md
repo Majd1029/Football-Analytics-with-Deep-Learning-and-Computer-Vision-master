@@ -27,4 +27,6 @@ Steps:
 
 The journey of the input video and different functionalities are illustrated in the workflow diagram below.
 
+
 ![workflow diagram](workflow-diagram.png)
+
